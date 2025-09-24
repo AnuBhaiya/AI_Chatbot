@@ -1,0 +1,8 @@
+openai
+tiktoken
+streamlit
+streamlit_chat
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+chromadb
