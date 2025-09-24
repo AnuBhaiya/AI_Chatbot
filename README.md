@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Project 1: Domain-Specific Chatbot
 
 This repo contains two implementations:
@@ -46,3 +47,6 @@ streamlit run app_streamlit.py
 
 6. Local RAG (advanced): create ./data with docs, run an Ollama server, then:
 python chatbot_rag_local.py
+=======
+# AI_Chatbot
+>>>>>>> ff795f60417919736aeacba3980868f8b804a317
